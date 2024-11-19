@@ -239,8 +239,8 @@ queue_4: "**💫 Added to queue at #{0}**\n\n**🥀Title:** {1}\n**⏱ Duration:
 queue_5: "🚫 Only one track is in queue; add some more tracks in the queue to check the whole queue."
 
 # All Streaming Lines
-stream_1: "**✮ Started Streaming**\n\n**✯ Title:** [{0}]({1})\n**✬ Duration:** {2} minutes\n**✭ By:** {3}"
-stream_2: "➲ **Started Streaming |**\n\n**‣ Stream type:** live stream [url]\n**‣ By:** {0}"
+stream_1 : "➜ <b>𝖲𝗍𝖺𝗋𝗍𝖾𝖽 𝖲𝗍𝗋𝖾𝖺𝗆𝗂𝗇𝗀  </b>\n\n<b>‣ 𝖳𝗂𝗍𝗅𝖾 : [{0}]({1})\n<b>‣ 𝖣𝗎𝗋𝖺𝗍𝗂𝗈𝗇 :</b> {2} 𝖬𝗂𝗇𝗎𝗍𝖾𝗌\n<b>‣ 𝖱𝖾𝗊𝗎𝖾𝗌𝗍𝖾𝖽 𝖡𝗒 :</b> {3}"
+stream_2 : "➜ <b>𝖲𝗍𝖺𝗋𝗍𝖾𝖽 𝖲𝗍𝗋𝖾𝖺𝗆𝗂𝗇𝗀  </b>\n\n<b>‣ 𝖲𝗍𝗋𝖾𝖺𝗆 𝖳𝗒𝗉𝖾 :</b> 𝖫𝗂𝗏𝖾 𝖲𝗍𝗋𝖾𝖺𝗆 [ 𝖴𝗋𝗅 ]\n<b>‣ 𝖱𝖾𝗊𝗎𝖾𝗌𝗍𝖾𝖽 𝖡𝗒 :</b> {0}"
 
 V_C_1: "🔄 Fetching participants list...."
 V_C_2: "**Name:** {0}\n    **ID:** {1}\n    **Username:** {2}\n    **Video sharing:** {3}\n    **Screen sharing:** {4}\n    **Is hand raised:** {5}\n    **Muted:** {6}\n    **Speaking:** {7}\n    **Left from group:** {8}"
@@ -263,14 +263,14 @@ UNBAN_BUTTON: "🆓 Unban assistant"
 L_B_1: "🎶 Check out lyrics now"
 
 # Start
-S_B_1 : "🗒 Command"
-S_B_2 : "🔧 Setting"
-S_B_3 : "📨 Support"
-S_B_4 : "📨 Channel"
-S_B_5 : "✚ Add me to your Group ✚"
+S_B_1 : "𝗖𝗢𝗠𝗠𝗔𝗡𝗗"
+S_B_2 : "𝗦𝗘𝗧𝗧𝗜𝗡𝗚"
+S_B_3 : "𝗦𝗨𝗣𝗣𝗢𝗥𝗧"
+S_B_4 : "𝗖𝗛𝗔𝗡𝗡𝗘𝗟"
+S_B_5 : "✚ 𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 ✚"
 S_B_6 : "💡 Git Repo"
-S_B_7 : "👤 Owner"
-S_B_8 : "🔎 How to use? Command Menu"
+S_B_7 : "𝗢𝗪𝗡𝗘𝗥"
+S_B_8 : "𝗖𝗢𝗠𝗠𝗔𝗡𝗗"
 
 #PlayMode
 PM_B_1 : "Direct play"
@@ -309,7 +309,7 @@ ST_B_2 : "🎥 Video Quality"
 ST_B_3 : "🎩 Auth User's"
 ST_B_4 : "📱 Dashboard"
 ST_B_5 : "▶️ Play Mode"
-ST_B_6 : "🏳️‍🌈 Language"
+ST_B_6 : "𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘"
 ST_B_7 : "🔄 Clean Mode"
 ST_B_8 : "{0} Low Quality"
 ST_B_9 : "{0} Medium Quality"
